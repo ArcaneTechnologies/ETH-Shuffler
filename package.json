@@ -1,0 +1,16 @@
+{
+  "name": "eth-shuffler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Arcane Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.3.0"
+  }
+}
